@@ -1,0 +1,15 @@
+D:\Repos\dsa\MainWindow\MainWindow\obj\Debug\MainWindow.csprojAssemblyReference.cache
+D:\Repos\dsa\MainWindow\MainWindow\obj\Debug\MainWindow.g.cs
+D:\Repos\dsa\MainWindow\MainWindow\obj\Debug\App.g.cs
+D:\Repos\dsa\MainWindow\MainWindow\obj\Debug\MainWindow_MarkupCompile.cache
+D:\Repos\dsa\MainWindow\MainWindow\obj\Debug\MainWindow_MarkupCompile.lref
+D:\Repos\dsa\MainWindow\MainWindow\bin\Debug\MainWindow.exe.config
+D:\Repos\dsa\MainWindow\MainWindow\bin\Debug\MainWindow.exe
+D:\Repos\dsa\MainWindow\MainWindow\bin\Debug\MainWindow.pdb
+D:\Repos\dsa\MainWindow\MainWindow\obj\Debug\MainWindow.baml
+D:\Repos\dsa\MainWindow\MainWindow\obj\Debug\MainWindow.g.resources
+D:\Repos\dsa\MainWindow\MainWindow\obj\Debug\MainWindow.Properties.Resources.resources
+D:\Repos\dsa\MainWindow\MainWindow\obj\Debug\MainWindow.csproj.GenerateResource.cache
+D:\Repos\dsa\MainWindow\MainWindow\obj\Debug\MainWindow.csproj.CoreCompileInputs.cache
+D:\Repos\dsa\MainWindow\MainWindow\obj\Debug\MainWindow.exe
+D:\Repos\dsa\MainWindow\MainWindow\obj\Debug\MainWindow.pdb

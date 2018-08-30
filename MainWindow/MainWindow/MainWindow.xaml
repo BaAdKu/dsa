@@ -1,0 +1,62 @@
+﻿<Window x:Class="MainWindow.BasicView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MainWindow"
+        mc:Ignorable="d"
+        Title="DSA CharCreator" Height="1000" Width="1000">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Character">
+                <MenuItem Header="Create new Character" />
+                <MenuItem Header="_Open" />
+                <MenuItem Header="_Save" />
+                <MenuItem Header="Switch"/>
+                <MenuItem Header="Manage this"/>
+                <MenuItem Header="Delete"/>
+                <MenuItem Header="Export"/>
+                <Separator />
+                <MenuItem Header="_Exit" Click="Close_Click" />
+            </MenuItem>
+            <MenuItem Header="Level Up">
+                <MenuItem Header="Enter AP" />
+                <MenuItem Header="Buy Skill" />
+                <MenuItem Header="Buy Talent" />
+                <MenuItem Header="Buy Spell"/>
+                <MenuItem Header="Reduce Bad Attributes"/>
+                <MenuItem Header="Enhance Good Attributes"/>
+                <MenuItem Header="Increase Stats"/>
+            </MenuItem>
+
+            <MenuItem Header="Inventory">
+                <MenuItem Header="View Inventory"/>
+                <MenuItem Header="add Item"/>
+                <MenuItem Header="Buy Item"/>
+                <MenuItem Header="Manage Wallet"/>
+            </MenuItem>
+
+
+        </Menu>
+
+        <TextBox AcceptsReturn="True" />
+        <TabControl Height="900" VerticalAlignment="Top" Width="600" >
+            <TabItem Header="Overview">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="Attributes">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="Talents" HorizontalAlignment="Right" Width="52">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="Fight">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+            <TabItem Header="Magic">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+        </TabControl>
+    </DockPanel>
+   
+</Window>
